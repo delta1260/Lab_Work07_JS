@@ -1,0 +1,22 @@
+{
+    "myAnimal": {
+        "animal1": {
+            "name": "Lolo",
+            "ownerName": "Mathys",
+            "type": "snake",
+            "birthYear": 2003
+        },
+        "animal2": {
+            "name": "Lili",
+            "ownerName": "Niels",
+            "type": "cat",
+            "birthYear": 2006
+        },
+        "animal3": {
+            "name": "Lala",
+            "ownerName": "Léo",
+            "type": "sparrow",
+            "birthYear": 2003
+        }
+    }
+}
